@@ -5,4 +5,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
+}
+.Content {
+  position: absolute;
+  z-index: 2;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 80vw;
+  
 }

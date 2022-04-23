@@ -1,0 +1,14 @@
+.Card {
+  background: rgba(255, 255, 255, 0.05);
+  
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border-radius: 10px;
+  
+  height: 50vh;
+  width: 40vw;
+}
+.Card h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}

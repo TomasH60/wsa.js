@@ -1,9 +1,11 @@
 import React from 'react'
-
-const HeaderItem = () => {
+import './HeaderItem.css'
+const HeaderItem = ({title}) => {
   return (
     <div className='HeaderItem'>
-        
+        <a href="#">
+          <p>{title}</p>
+        </a>
     </div>
   )
 }

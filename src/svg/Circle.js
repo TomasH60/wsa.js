@@ -28,6 +28,7 @@ const Circle = ({
         maxWidth: maxWidth,
         minHeight: minHeight,
         minWidth: minWidth,
+        
       }}
     >
       <circle cx={193} cy={193} r={193} fill="url(#paint0_radial_1_2)" />
