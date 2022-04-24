@@ -7,7 +7,7 @@
   align-items: center;
   position: absolute;
   top: 0;
-  z-index: 2;
+  z-index: 5;
 }
 .HeaderItemContainer {
   width: 40%;
@@ -23,6 +23,6 @@
 }
 .HeaderLogo {
   width: 5%;
-  height: 100%;
+  height: 90%;
   /*border: 1px solid red;*/
 }

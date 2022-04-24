@@ -4,7 +4,7 @@ const Background = () => {
   return (
     <div>
       <Circle
-        position={["-80px", "0px", "0px", "-70px"]}
+        position={["15%", "0px", "0px", "-70px"]}
         height={"60vw"}
         width={"60vw"}
         maxHeight={"500px"}
